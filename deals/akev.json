@@ -1,0 +1,23 @@
+{
+  "name": "Akev",
+  "url": "https://akev.dev/pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "developer",
+  "description": "Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers.",
+  "discount": "30% off Pro",
+  "code": "BLACKFRIDAY",
+  "prices": [
+    {
+      "plan": "Pro (one-time)",
+      "before": 49,
+      "after": 34.3
+    }
+  ],
+  "terms": "One-time licence with 1 year of updates. Also on Windows and Linux. Ends Dec 6, 23:59 UTC.",
+  "starts": "2026-11-15",
+  "ends": "2026-12-06",
+  "maker": "Akev",
+  "makerUrl": "https://akev.dev"
+}
